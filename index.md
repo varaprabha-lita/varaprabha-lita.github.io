@@ -5,8 +5,10 @@ layout: default
 
 # Dr. Galiveeti Poornima
 **Postdoctoral Fellow, Lincoln University, Malaysia**  
+
 📧 [varaprabha.lita@gmail.com](mailto:varaprabha.lita@gmail.com)  
 📞 +91-9449069529  
+
 [LinkedIn](https://www.linkedin.com/in/dr-galiveeti-poornima/) | [Google Scholar](https://scholar.google.com/citations?user=o6Xsku0AAAAJ&hl=en) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58449523300) | [Semantic Scholar](https://www.semanticscholar.org/author/Galiveeti-Poornima/2180679488)
 
 ---
@@ -56,19 +58,13 @@ Artificial Intelligence, Machine Learning, Natural Language Processing, Cloud Co
 
 ---
 
-## Selected Research
-**Theses & Major Projects**
-- *Sign Language Recognition Using Deep Learning* (MS in Data Science, 2023–Present)
-- *Classification of Cervical Cancer* (2023)
-- *Intelligent Diagnosis Framework for Skin Lesion Classification* (Ph.D., 2023)
-- *Analytical Model for Cloud Data Performance* (M.Tech., 2012)
+## Featured Research
+- *Sign Language Recognition Using Deep Learning* – Ongoing, focus on Indian Sign Language recognition using CNN and RNN architectures.
+- *Intelligent Diagnosis Framework for Skin Lesion Classification* – Ph.D. research using AI-based image analysis.
+- *Classification of Cervical Cancer* – Comparative review of diagnostic classification systems.
 
-**Publications**
-- 9+ peer-reviewed journal papers
-- 6+ IEEE conference papers
-- Multiple book chapters with CRC Press, Springer, and River Publishers
-
-[Full list of publications →](#publications)
+[See full publications →](./publications.md)  
+[See full list of projects →](./projects.md)
 
 ---
 
@@ -89,5 +85,4 @@ Artificial Intelligence, Machine Learning, Natural Language Processing, Cloud Co
 
 ---
 
-## Last Updated
-August 6, 2025
+_Last Updated: August 6, 2025_
