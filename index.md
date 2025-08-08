@@ -55,3 +55,39 @@ Machine Learning (ML), with a current focus on Deep Learning techniques for **Si
 Artificial Intelligence, Machine Learning, Natural Language Processing, Cloud Computing, Predictive Analytics, Social Media Analytics, Compiler Design, Computer Graphics, Data Analytics, Information Retrieval, Virtual Reality Development, Optimization Techniques for ML.
 
 ---
+
+## Selected Research
+**Theses & Major Projects**
+- *Sign Language Recognition Using Deep Learning* (MS in Data Science, 2023–Present)
+- *Classification of Cervical Cancer* (2023)
+- *Intelligent Diagnosis Framework for Skin Lesion Classification* (Ph.D., 2023)
+- *Analytical Model for Cloud Data Performance* (M.Tech., 2012)
+
+**Publications**
+- 9+ peer-reviewed journal papers
+- 6+ IEEE conference papers
+- Multiple book chapters with CRC Press, Springer, and River Publishers
+
+[Full list of publications →](#publications)
+
+---
+
+## Certifications
+- NPTEL Domain Scholar (Programming)
+- Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+- Hugging Face Deep Reinforcement Learning
+- Advanced Machine Learning & Deep Learning Using Python (RVIM + Boston IT)
+- Multiple FDPs, workshops, and summer schools on AI
+
+---
+
+## Awards & Achievements
+- Top 5% in *Sustainability in the Digital Age* (Hasso Plattner Institute)
+- Wipro Certified Faculty – Data Science with Python
+- AICTE ATAL FDP Grant on NLP (₹3.5 Lakhs)
+- Mentored multiple B.Tech., M.Tech., and international student projects
+
+---
+
+## Last Updated
+August 6, 2025
